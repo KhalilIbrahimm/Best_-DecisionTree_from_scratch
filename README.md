@@ -23,7 +23,7 @@
     pip install matplotlib
     pip install scikit-learn
     ```
-"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"
+
 4. Ensure you have the wine dataset in the project folder, under the "data" directory. The file should be named "... .csv". Ops! Make sure to change filename also in main.ipynb! 
 
 ## File Structure and Explanation
